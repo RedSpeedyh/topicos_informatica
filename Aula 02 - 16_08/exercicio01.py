@@ -6,7 +6,8 @@ com o valor fornecido conforme a Tabela.
 - Apresente em tela o nome do produto, valor original do
 produto e o novo valor depois de ser realizado o desconto.
 Caso o valor digitado seja menor que zero, deve ser
-emitida uma mensagem de aviso."""
+emitida uma mensagem de aviso.
+"""
 
 """
 Valor (R$)          Desconto(R$)
